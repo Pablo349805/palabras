@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+}
+
+
+.botones button {
+    margin: 5px;
+    padding: 5px 0;
+    font-size: 1.3em;
+    background-color: white;
+    border: 1px dashed black;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 35px;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+.imagen {
+    width: 160px;
+    margin: 20px auto;
+}
+
+.fondo {
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+    margin: 0%;
+    align-items: center;
+}
+
+.portada {
+    margin: auto;
+    width: 80vh;
+    height: 80vh;
+    background-color: cornflowerblue;
+    text-align: center;
+    align-items: center;
+    border: 2px solid navy;
+    border-radius: 6px;
+
+}
+
+.titulo {
+    color: navy;
+    padding: 20vh;
+}
+
+.boton1 {
+    background-color: azure;
+    border: 2px solid navy;
+    color: navy;
+    border-radius: 8px;
+    width: 15vh;
+    height: 8vh;
+}

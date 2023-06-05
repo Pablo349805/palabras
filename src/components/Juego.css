@@ -1,0 +1,56 @@
+* {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0px;
+    width: 80vh;
+    margin: auto;
+
+}
+
+.body {
+    border: 1px solid black;
+    background-color: lightcyan;
+    border-radius: 12px;
+}
+
+.pregunta {
+    align-items: center;
+    text-align: center;
+}
+
+.palabra {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.botones {
+    align-items: center;
+    text-align: center;
+}
+
+.palo {
+    align-items: center;
+    text-align: center;
+    margin: 2px;
+    border-bottom: 1px solid black;
+    width: 32px;
+    height: 45px;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.imagen {
+    align-items: center;
+    border: 1px solid black;
+}
+
+.volver {
+    background-color: palegreen;
+    align-items: center;
+    border-radius: 6px;
+    width: 30vh;
+    height: 6vh;
+}
